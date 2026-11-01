@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="hi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SK SHAYAR - Official Links</title>
+    <style>
+        body { font-family: Arial, sans-serif; background: #0f172a; color: #fff; text-align: center; padding: 20px; margin: 0; }
+        .container { max-width: 400px; margin: auto; background: #1e293b; padding: 30px; border-radius: 15px; box-shadow: 0 4px 10px rgba(0,0,0,0.3); }
+        h1 { margin-bottom: 5px; color: #38bdf8; }
+        p { color: #94a3b8; margin-bottom: 25px; }
+        .btn { display: block; background: #3b82f6; color: white; padding: 12px; margin: 15px 0; text-decoration: none; border-radius: 8px; font-weight: bold; transition: 0.3s; }
+        .btn:hover { background: #2563eb; }
+        .youtube { background: #ef4444; }
+        .instagram { background: #ec4899; }
+        .facebook { background: #1877f2; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>SK SHAYAR</h1>
+        <p>मेरे सभी सोशल मीडिया चैनल्स से जुड़ें</p>
+        
+        <a href="https://youtube.com/@uvaishking597?si=FCaMvTGGRa78o9vo" class="btn youtube" target="_blank">YouTube पर सब्सक्राइब करें</a>
+        <a href="https://www.instagram.com/sk.uvaish_777?vrfl=MXhtaXczYjkxNTRsMQ==" class="btn instagram" target="_blank">Instagram पर फॉलो करें</a>
+        <a href="https://www.facebook.com/share/19MuPAkm4V/" class="btn facebook" target="_blank">Facebook पर जुड़ें</a>
+    </div>
+</body>
+</html>
